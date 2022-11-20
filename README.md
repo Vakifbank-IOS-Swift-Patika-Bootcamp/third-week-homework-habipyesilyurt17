@@ -23,3 +23,13 @@ Proje açılış ekranında company bilgileri yer almaktadır. Buradaki değerle
 - Çalışanlar listesinde isme göre search işlemi yapabiliyorum.
 
 ![](https://github.com/Vakifbank-IOS-Swift-Patika-Bootcamp/third-week-homework-habipyesilyurt17/blob/main/FirstQuestion/ScreenShots/employeeListSearch.png)
+
+
+2- Hayvanat bahçesi Playground yazılımının Xcode ile projelendirilmesi yapılacaktır. Aşağıdaki Özelliklerin bulunması gerekmektedir:
+# Özet
+Bu soruyu yetiştiremedim. Eksik olan kısımlar hayvanların ve bakıcıların listelenme ekranları ve berarberindeki işlemler.
+
+3- https://programming-quotes-api.herokuapp.com/index.html üzerinden random endpointi kullanılarak aşağıdaki özellikler sağlanacaktır.
+# Özet
+Burada şöyle bir sıkıntı var request attığımda dönen response'un  bekleme süresi var. Burada bir indicator gösterebilirdim. Onun dışında 1 ile 100 arasında rastgele bir sayı üretiyorum. Daha sonra da 1 ile bu ürettiğim sayı arasında yine rastgale bir sayı üretiyorum. birinci sayıyı bana dönecek olan quotes sayısını vermesi için ikincisini ise index olarak kullandım.
+- ilk proje ayağa kalktığında request atıyorum. Sonrasında her change butona tıklandığında yine request atıyorum.
